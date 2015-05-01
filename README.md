@@ -3,6 +3,7 @@
 Simple python examples for teaching python
 
 Examples:
+
 | Example                      | Description            |
 | ---------------------------- | ---------------------- |
 | networking/message_server.py | Simple message server  |
