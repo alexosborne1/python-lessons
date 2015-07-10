@@ -64,7 +64,7 @@ except socket.error:
 finally:
     # Close everything.
     client.close()
-    sock.close
+    sock.close()
 
 
     
